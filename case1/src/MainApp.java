@@ -12,5 +12,6 @@ public class MainApp {
         System.out.println("Average area of summer houses: " + structerService.averageAreaSummerHouse());
         System.out.println("Average area: " + structerService.averageArea());  
         System.out.println(structerService.getStructers(4,3));
+
     }
 }
